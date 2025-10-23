@@ -23,3 +23,4 @@ C:\AzureStorageDemo\bin\Debug\net8.0\System.IO.Hashing.dll
 C:\AzureStorageDemo\bin\Debug\net8.0\System.Memory.Data.dll
 C:\AzureStorageDemo\obj\Debug\net8.0\AzureStorageDemo.csproj.AssemblyReference.cache
 C:\AzureStorageDemo\obj\Debug\net8.0\AzureSto.F383E54F.Up2Date
+C:\AzureStorageDemo\obj\Debug\net8.0\AzureStorageDemo.sourcelink.json
